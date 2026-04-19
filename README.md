@@ -1,6 +1,6 @@
 # MM-JudgeBench: Lost in Translation — Do LVLM Judges Generalize Across Languages?
 
-[![Paper](https://img.shields.io/badge/Paper-ACL%202026%20Findings-blue)](https://github.com/tahmedge/mm-judgebench/edit/main/README.md)
+[![Paper](https://img.shields.io/badge/Paper-ACL%202026%20Findings-blue)](https://github.com/tahmedge/mm-judgebench/tree/main)
 
 > **Accepted at ACL 2026 Findings** 🎉
 
