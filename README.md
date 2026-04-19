@@ -1,9 +1,6 @@
 # MM-JudgeBench: Lost in Translation — Do LVLM Judges Generalize Across Languages?
 
-[![Paper](https://img.shields.io/badge/Paper-ACL%202026%20Findings-blue)]()
-[![License](https://img.shields.io/badge/License-Research-green)]()
-[![Languages](https://img.shields.io/badge/Languages-25-orange)]()
-[![Samples](https://img.shields.io/badge/Samples-60K%2B-red)]()
+[![Paper](https://img.shields.io/badge/Paper-ACL%202026%20Findings-blue)](https://github.com/tahmedge/mm-judgebench/edit/main/README.md)
 
 > **Accepted at ACL 2026 Findings** 🎉
 
@@ -76,8 +73,6 @@ The benchmark was constructed in three stages:
 | GPT-5-Nano | 73.2% | 1.2 |
 | Grok-4.1-Fast | 71.3% | 0.7 |
 | **Qwen3-VL-32B** (best open) | **68.8%** | 3.3 |
-| Claude-4.5-Haiku | 56.4% | 2.1 |
-| Gemini-2.5-Flash-Lite | 40.8% | 2.6 |
 
 ### M-OpenCQA (Open Models)
 
@@ -142,7 +137,7 @@ cd mm-judgebench
 pip install -r requirements.txt
 
 # Run evaluation (example)
-python eval/run_eval.py --model Qwen3-VL-8B --subset m-vl-rewardbench
+python eval/run_eval.py --subset m-vl-rewardbench
 ```
 
 ---
