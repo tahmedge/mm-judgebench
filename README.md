@@ -171,7 +171,7 @@ Md Tahmid Rahman Laskar¹, Mohammed Saidul Islam¹, Mir Tafseer Nayeem², Md Amr
 
 ## 🙏 Acknowledgments
 
-This research is supported by NSERC Canada, the York Research Chairs (YRC) program, the Canada Foundation for Innovation (CFI), Google's Gemini Academic Program, CUPE 3903 Research Grant, and Compute Canada.
+This research is supported by NSERC Canada, the York Research Chairs (YRC) program, the Canada Foundation for Innovation (CFI), Google's Gemini Academic Program, CUPE 3903 Research Grant, and Digital Research Alliance of Canada.
 
 ---
 
