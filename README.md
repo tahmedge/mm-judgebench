@@ -126,24 +126,6 @@ mm-judgebench/
 └── README.md
 ```
 
----
-
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/tahmedge/mm-judgebench.git
-cd mm-judgebench
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run evaluation (example)
-python eval/run_eval.py --subset m-vl-rewardbench
-```
-
----
-
 ## 📝 Citation
 
 If you use MM-JudgeBench in your research, please cite:
