@@ -6,7 +6,7 @@
 
 Official repository for the paper **"Lost in Translation: Do LVLM Judges Generalize Across Languages?"**
 
-**MM-JudgeBench** is the first large-scale benchmark for **multilingual and multimodal judge model evaluation**, covering over **60K pairwise preference instances across 25 typologically diverse languages**.
+In this paper, **MM-JudgeBench** is proposed, which is the first large-scale benchmark for **multilingual and multimodal judge model evaluation**, covering over **60K pairwise preference instances across 25 typologically diverse languages**.
 
 *The dataset will be released soon. Stay tuned!*
 
