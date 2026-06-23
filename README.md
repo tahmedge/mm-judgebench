@@ -1,6 +1,6 @@
 # MM-JudgeBench: Lost in Translation — Do LVLM Judges Generalize Across Languages?
 
-[![Paper](https://img.shields.io/badge/Paper-ACL%202026%20Findings-blue)](https://arxiv.org/abs/2604.19405v1)
+[![Paper](https://img.shields.io/badge/Paper-ACL%202026%20Findings-blue)](https://aclanthology.org/2026.findings-acl.1746/)
 
 > **Accepted at ACL 2026 Findings** 🎉
 
@@ -113,19 +113,6 @@ The benchmark was constructed in three stages:
 
 ---
 
-## 📁 Repository Structure
-
-```
-mm-judgebench/
-├── data/
-│   ├── m-vl-rewardbench/      # 31K multilingual samples
-│   ├── m-opencqa/             # 30K multilingual samples
-│   └── m-mm-rewardbench/      # 100K training samples
-├── eval/                      # Evaluation scripts
-├── prompts/                   # Translation & judging prompts
-└── README.md
-```
-
 ## 📝 Citation
 
 If you use MM-JudgeBench in your research, please cite:
@@ -167,5 +154,5 @@ MM-JudgeBench is designed to **expose, not obscure**, multilingual failure modes
 
 ## 🔗 Links
 
-- 📄 **Paper:** [ACL 2026 Findings](https://arxiv.org/html/2604.19405v1)
+- 📄 **Paper:** [ACL 2026 Findings](https://aclanthology.org/2026.findings-acl.1746/)
 - 💻 **Code & Data:** [https://github.com/tahmedge/mm-judgebench](https://github.com/tahmedge/mm-judgebench)
