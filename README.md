@@ -8,7 +8,7 @@ Official repository for the paper **"Lost in Translation: Do LVLM Judges General
 
 In this paper, **MM-JudgeBench** is proposed, which is the first large-scale benchmark for **multilingual and multimodal judge model evaluation**, covering over **60K pairwise preference instances across 25 typologically diverse languages**.
 
-*The dataset will be released soon. Stay tuned!*
+The dataset is available here: https://huggingface.co/datasets/tahmedge/MM-JudgeBench
 
 ---
 
@@ -167,5 +167,5 @@ MM-JudgeBench is designed to **expose, not obscure**, multilingual failure modes
 
 ## 🔗 Links
 
-- 📄 **Paper:** [ACL 2026 Findings]()
+- 📄 **Paper:** [ACL 2026 Findings](https://arxiv.org/html/2604.19405v1)
 - 💻 **Code & Data:** [https://github.com/tahmedge/mm-judgebench](https://github.com/tahmedge/mm-judgebench)
